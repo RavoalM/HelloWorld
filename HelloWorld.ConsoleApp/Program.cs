@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("Boa tarde seres !!!");
+            Console.WriteLine("Boa tarde seres !!! \nPrimeira aula na Academia");
 
             Console.ReadLine();
 
